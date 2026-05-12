@@ -40,6 +40,7 @@ Maintained by [CryptoPayHub](https://cryptopayhub.net) — independent reviews a
 | Gateway | Coins | KYC | Notes |
 |---------|-------|-----|-------|
 | [BTCPay Server](https://btcpayserver.org) | BTC, LTC, XMR + Lightning | None | Open source, self-hosted |
+| [Base Pay Desk](https://oskarasi.github.io/base-pay-desk-site/) | ETH on Base | None | Independent static payment-link checkout; seller wallet receives funds directly and platform-fee math is shown before payment. |
 | [Blockonomics](https://blockonomics.co) | BTC | None | Direct-to-wallet payments |
 | [GoUrl](https://gourl.io) | BTC, LTC, DASH, and more | None | WordPress plugin available |
 
