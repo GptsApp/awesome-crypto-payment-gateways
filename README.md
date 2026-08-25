@@ -81,6 +81,7 @@ Maintained by [CryptoPayHub](https://cryptopayhub.net) — independent reviews a
 - [Stripe Crypto Payouts](https://stripe.com/use-cases/crypto) — Stablecoin payouts via Bridge
 - [Bitso](https://bitso.com/business) — LATAM-focused stablecoin payments
 - [Conduit](https://www.conduit.financial) — Cross-border stablecoin payments
+- [Unifi Pay Direct](https://pay.unifi.me/direct/) — Payment links and APIs for accepting USDT and JPYC stablecoin payments.
 
 > 📖 **Integration guide:** [Fiat to Crypto Payment Gateway](https://cryptopayhub.net/fiat-to-crypto-payment-gateway) — bridging traditional and crypto payments.
 
