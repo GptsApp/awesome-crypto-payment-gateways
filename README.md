@@ -42,6 +42,7 @@ Maintained by [CryptoPayHub](https://cryptopayhub.net) — independent reviews a
 | [BTCPay Server](https://btcpayserver.org) | BTC, LTC, XMR + Lightning | None | Open source, self-hosted |
 | [Blockonomics](https://blockonomics.co) | BTC | None | Direct-to-wallet payments |
 | [GoUrl](https://gourl.io) | BTC, LTC, DASH, and more | None | WordPress plugin available |
+| [send21](https://send21.io) | BTC, USDC, USDT, EURC | None | Non-custodial pay links and payment drafts; never holds keys |
 
 > 📖 **Detailed comparison:** [Best Crypto Payment Gateways 2026](https://cryptopayhub.net/best-crypto-payment-gateway) — tested with real merchant accounts.
 
