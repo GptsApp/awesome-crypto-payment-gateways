@@ -77,6 +77,7 @@ Maintained by [CryptoPayHub](https://cryptopayhub.net) — independent reviews a
 
 ## Stablecoin Payment Solutions
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) — MIT-licensed local CLI and MCP runtime for AI-agent x402 payments and direct transfers on macOS Apple Silicon; network and provider fees are separate.
 - [Circle (USDC)](https://www.circle.com/en/usdc) — USDC issuer with merchant APIs
 - [Stripe Crypto Payouts](https://stripe.com/use-cases/crypto) — Stablecoin payouts via Bridge
 - [Bitso](https://bitso.com/business) — LATAM-focused stablecoin payments
